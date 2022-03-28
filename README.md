@@ -1,7 +1,7 @@
 # RentACar
-Java app using Springboot JPA for CRUD operations
-This App is to show some operations: Create, Read, Update and Delete with MySWL Database
-I used Xampp for Database server and Postman for requests
+Java app using Springboot JPA for CRUD operations; 
+This App is to show some operations: Create, Read, Update and Delete with MySQL Database; 
+I used Xampp for Database server and Postman for requests; 
 
 Example JSAON body for:
 Car:
